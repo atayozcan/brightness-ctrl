@@ -1,5 +1,4 @@
-use std::collections::HashMap;
-use std::error::Error;
+use std::{collections::HashMap, error::Error};
 use zbus::{dbus_proxy, Connection};
 use zvariant::Value;
 
